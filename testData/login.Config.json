@@ -1,0 +1,13 @@
+[
+    { "Name": "ValidCase",
+      "Username": "mngr578858",
+      "Password": "avUsyna"
+   
+    },
+    {   "Name": "InvalidCase",
+        "Username": "mngr578858_01",
+        "Password": "avUsyna_01"
+    }
+
+
+]

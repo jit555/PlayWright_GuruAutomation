@@ -1,0 +1,1 @@
+export const base_URL = 'https://demo.guru99.com/V1/index.php'
